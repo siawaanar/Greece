@@ -1,0 +1,23 @@
+{
+  "accounts": [
+    { "email": "alibhai555551@gmail.com", "password": "shahbazali" }
+  ],
+  "form": {
+    "full_name": "shahbaz Ali",
+    "phone": "03459322162",
+    "passport_number": "HQ1837001",
+    "passport_expiry": "18022033",
+    "passport_issue_date": "20022023",
+    "date_of_birth": "23102004",
+    "apofasi": "(AM355475) 2025/13579",
+    "employer": "kartsakis nikolaos",
+    "region": "ΗΡΑΚΛΕΙΟ",
+    "father": "Muhammad Riaz",
+    "husband": "nil",
+    "address": "Gujrat",
+    "cnic": "3420280477005"
+  },
+  "slot": {
+    "pick_index": 1
+  }
+}
