@@ -1,0 +1,36 @@
+﻿{
+  "accounts": [
+    {
+      "email": "aira108109@gmail.com",
+      "password": "aira@12345"
+    }
+  ],
+  "form": {
+    "refer_by": "Manan",
+    "full_name": "Ghulam mohi ud din",
+    "phone": "03156099740",
+    "passport_number": "HB7798781",
+    "passport_expiry": "27112029",
+    "passport_issue_date": "20012025",
+    "date_of_birth": "20041999",
+    "apofasi": "(AM335944) 2025/7977",
+    "employer": "TSIOTAKI VASILIKI",
+    "region": "ΗΡΑΚΛΕΙΟ",
+    "father": "Noor Muhammad",
+    "husband": "nil",
+    "address": "Nafplio",
+    "cnic": "3550105903483",
+    "status": "active"
+  },
+    "start_times":  [
+                        "2026-04-16 10:20",
+                        "2026-04-02 09:10",
+                        "2026-04-21 11:05",
+                        "2026-04-07 11:20",
+                        "2026-04-22 13:05",
+                        "2026-04-08 13:20"
+                    ],
+    "slot":  {
+                 "pick_index":  232
+             }
+}

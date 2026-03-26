@@ -1,0 +1,36 @@
+{
+  "accounts": [
+    {
+      "email": "raja459090@gmail.com",
+      "password": "raja459090"
+    }
+  ],
+  "form": {
+    "refer_by": "Talha/Luqman",
+    "full_name": "Naveed Hassan",
+    "phone": "03149435747",
+    "passport_number": "XD6809041",
+    "passport_expiry": "30122029",
+    "passport_issue_date": "31122024",
+    "date_of_birth": "07072007",
+    "apofasi": "(AM308711)2025/9572",
+    "employer": "Vasileios Karakitos",
+    "region": "ΗΡΑΚΛΕΙΟ",
+    "father": "Hussain,Mazhar",
+    "husband": "nil",
+    "address": "Gujrat,Pak",
+    "cnic": "3420161579041",
+    "status": "active"
+  },
+  "start_times": [
+    "2026-04-02 10:10",
+    "2026-04-20 09:15",
+    "2026-04-07 12:20",
+    "2026-04-21 12:05",
+    "2026-04-08 14:20",
+    "2026-04-22 14:05"
+  ],
+  "slot": {
+    "pick_index": 59
+  }
+}
